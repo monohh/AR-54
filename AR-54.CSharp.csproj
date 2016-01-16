@@ -42,7 +42,6 @@
     <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="mscorlib" />
     <Reference Include="System" />
     <Reference Include="System.XML" />
     <Reference Include="System.Core" />

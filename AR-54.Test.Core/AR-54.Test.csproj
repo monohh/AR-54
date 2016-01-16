@@ -54,9 +54,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AR-54.CSharp.csproj">
+    <ProjectReference Include="..\AR-54.Core.CSharp.csproj">
       <Project>{9c7f6603-322b-a4d6-ff45-8e7ccf50bb40}</Project>
-      <Name>AR-54.CSharp</Name>
+      <Name>AR-54.Core.CSharp</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
